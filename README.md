@@ -1,4 +1,4 @@
-# GraphQL APP --SPACEX APP (Launches and Rockets stats)
+## GraphQL APP Space X app
 
 ## Introduction
 
@@ -12,6 +12,6 @@ Run the app (uses concurrently to run server and client at the same time)
 
 ## Screeshots
 
-![index page](https://github.com/skillshare-mentorship/holberton-image-recognition/blob/master/spx_1.png?raw=true)
+![index page](https://github.com/DiegoAlar/spacex_launch_stats/blob/main/spx_1.png?raw=true)
 
-![index page](https://github.com/skillshare-mentorship/holberton-image-recognition/blob/master/spx_2.png?raw=true)
+![index page](https://github.com/DiegoAlar/spacex_launch_stats/blob/main/spx_2.png?raw=true)
